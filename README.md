@@ -9,7 +9,6 @@ A curated list of awesome frameworks, libraries and software I use.
 
 ## Front-end libraries
 * [Tailwind CSS](https://tailwindcss.com/) - Rapidly build modern websites without ever leaving your HTML.
-* [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 
 ## Front-end languages
 * [Dart](https://dart.dev/) - Paint your UI to life.
