@@ -1,22 +1,22 @@
 # awesome-bene
 A curated list of awesome frameworks, libraries and software I use.
 
-## Front-end
+## Front end
 * [Flutter](https://flutter.dev/) - Design beautiful apps.
 * [Gatsby](https://www.gatsbyjs.com/) - One Front-end to Rule Them All (not true).
 * [React](https://github.com/facebook/create-react-app/) - A JavaScript library for building user interfaces.
 * [SwiftUI](https://developer.apple.com/documentation/swiftui/) - Declare the user interface and behavior for your app on every Apple platform.
 
-## Front-end libraries
+## CSS
 * [Tailwind CSS](https://tailwindcss.com/) - Rapidly build modern websites without ever leaving your HTML.
 
-## Front-end languages
+## Front end languages
 * [Dart](https://dart.dev/) - Paint your UI to life.
 * [JavaScript](https://developer.mozilla.org/de/docs/Web/JavaScript/) - I have a new framework down here.
 * [TypeScript](https://flutter.dev/) - Typed JavaScript at Any Scale.
 * [Swift](https://swift.org/) - A powerful open language that lets everyone build amazing apps.
 
-## Back-end languages & runtimes
+## Back end languages & runtimes
 * [Go](https://golang.org/) - A programming language that makes it easy to build simple, reliable, and efficient software.
 * [JavaScript](https://developer.mozilla.org/de/docs/Web/JavaScript/) - I have a new framework down here.
 * [TypeScript](https://www.typescriptlang.org/) - Typed JavaScript at Any Scale.
@@ -50,6 +50,9 @@ A curated list of awesome frameworks, libraries and software I use.
 * [PostgreSQL](http://example.com/) - Work in progress...
 * [MongoDB](http://example.com/) - Work in progress...
 * [MinIO](http://example.com/) - Work in progress...
+
+## ORM & database tools
+* [Prisma](https://www.prisma.io/) - Next-generation Node.js and TypeScript ORM
 
 ## Management & communication
 * [ERPNext](http://example.com/) - Work in progress...
